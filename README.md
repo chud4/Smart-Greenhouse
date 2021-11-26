@@ -36,5 +36,13 @@ Serial - Hardline wiring and messaging system between two devices such as Arduin
 
 LoRa/LoRaWAN - Long Range Wide Area Network, which is a method of wireless communication between devices
 
+# Youtube Link
+https://www.youtube.com/watch?v=sykYA1fTuPA
+
 # Wiring Diagram
 ![image](https://user-images.githubusercontent.com/95086857/143590443-54d07e6f-2ebd-4f6a-a59a-fb37ffbc6ac2.png)
+
+# Contributers
+Jack H.
+Matthew W.
+Daniel C.
