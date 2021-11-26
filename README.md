@@ -5,6 +5,7 @@ This project will develop a system that will act as a control system for tempera
 
 # Pre Requisite Program 
 You will need to have an updated version of Adruino to run the program. The version used in this program was 1.8.16.
+A basic understanding of C++ would be required to understand the code.
 
 # Files to Download
 Uno_Read.ino
