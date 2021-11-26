@@ -6,6 +6,13 @@ This project will develop a system that will act as a control system for tempera
 # Pre Requisite Program 
 You will need to have an updated version of Adruino to run the program. The version used in this program was 1.8.16.
 
+# Files to Download
+Uno_Read.ino
+
+CubeCell_Transmit.ino
+
+CubeCell_Receive_2.0.ino
+
 # Components Used
 LM34 Temperature Sensor (x2)
 
